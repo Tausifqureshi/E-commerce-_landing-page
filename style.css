@@ -115,9 +115,8 @@ button.white{
 #navbar li a:hover,
 #navbar li a.active{                 /* active class ko bhi same color gurop selector se , is se*/
     color: #088178;
-
-    
 }
+
 #navbar li a:hover{
     display: inline-block;
     margin-bottom: 2.3px;
