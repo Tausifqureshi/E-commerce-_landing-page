@@ -634,6 +634,7 @@ footer .copyright{
        /* position: relative;  /*relative position hai ye #close id ki ager hame is ke relative work karna hai*/
     
     }
+    
     #close {
     display: initial;  /*width jab 799px ho gi to close arrow show hoga*/
     position: absolute;
